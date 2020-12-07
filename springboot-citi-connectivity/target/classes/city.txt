@@ -1,7 +1,0 @@
-Boston, New York
-Philadelphia, Newark
-Newark, Boston
-Trenton, Albany
-Newark, Austin
-1,2
-2,3
